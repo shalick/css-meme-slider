@@ -199,8 +199,8 @@ input {
     grid-template-rows: 50% 2rem 3rem;
     grid-template-areas:
       "img"
-      "docket"
-      "bullets";
+      "bullets"
+      "docket";
   }
   .text {
     font-size: 1rem;
@@ -217,4 +217,3 @@ input {
     border: 0.1rem solid silver;
   }
 }
-
